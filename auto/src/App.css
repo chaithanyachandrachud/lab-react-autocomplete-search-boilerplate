@@ -1,0 +1,21 @@
+body{
+  background-color:darkcyan
+}
+h1{
+  color: black;
+  margin-bottom: 100px;
+  margin-left: 600px;
+}
+input{
+  background-color: antiquewhite  ;
+  margin-left: 550px;
+}
+button{
+  color: brown;
+  background-color:lightcoral;
+}
+p{
+  font-weight: bold;
+  margin-left: 550px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
